@@ -1,4 +1,3 @@
-
 # Image Recognition
 
 Project 01/30 — 30 Projects Challenge
@@ -48,13 +47,13 @@ README.md
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Saria-ASkar/Image-Recognition.git
 ```
 
 2. Open the project folder:
 
 ```bash
-cd YOUR_REPOSITORY
+cd Image-Recognition
 ```
 
 3. Install the required packages:
@@ -93,5 +92,7 @@ python "Image Recognition.py"
 ## Author
 
 Saria Askar
+
+GitHub: https://github.com/Saria-ASkar
 
 30 Projects Challenge — Project 01
